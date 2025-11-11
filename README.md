@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/kevin-weitgenant-linkedin-posts-hunter-mcp-server-badge.png)](https://mseep.ai/app/kevin-weitgenant-linkedin-posts-hunter-mcp-server)
+
 <div align="center">
   <img src="saitama-job-hunting.png" alt="Saitama Job Hunting" width="300"/>
   
